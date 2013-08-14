@@ -1,0 +1,44 @@
+{
+  "name": "html5-forms-polyfill",
+  "version": "0.0.1",
+  "description": "A cross-browser polyfill for HTML5 forms features",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bsatrom/html5-forms-polyfill.git"
+  },
+  "keywords": [
+    "html5",
+    "polyfill",
+    "forms",
+    "validation"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-jasmine": "~0.5.1",
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.0",
+    "karma-requirejs": "~0.1.0",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "~0.10.1",
+    "grunt-karma": "~0.6.1",
+    "karma-safari-launcher": "~0.1.1",
+    "karma-opera-launcher": "~0.1.0",
+    "grunt-contrib-watch": "~0.5.1"
+  },
+  "author": "Brandon Satrom",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4a2f3578443f539d52c645563fe47824bf4fb377"
+}
